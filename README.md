@@ -56,9 +56,9 @@ Make sure to configure the `.env` file properly with the necessary environment v
 - `postcss.config.js`: The configuration file for PostCSS, used for CSS processing.
 - `index.css`: Contains global styles applied throughout the app.
 - `package.json`: Contains all dependencies and scripts for the React app.
-- `README.md`: This file, where you can describe the project and provide usage instructions.
 
-This structure will render neatly on GitHub and provide a clean, understandable layout for anyone reviewing the frontend setup!
+
+
 ---
 
 ## Setup Instruction
